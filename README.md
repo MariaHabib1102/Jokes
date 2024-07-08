@@ -1,4 +1,4 @@
-![Screenshot](../jokes/src/screenshot.png)
+![Screenshot](./screenshot.png)
 
 
 <p>
