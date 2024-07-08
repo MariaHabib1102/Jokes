@@ -8,20 +8,21 @@
  <h1>
  Prerequisite
  </h1>
-
- <ul>
-React
-Function Components
-ReactJS AJAX and API
-useState
- </ul>
+<li>
+ <ul>React</ul>
+ <ul>Function Components</ul>
+ <ul>ReactJS AJAX and API</ul>
+ <ul>useState</ul>
+ </li>
 
  <h1> File Structure </h1>
-App.js: This file imports the components to render it on the web page
-Joke.js: This file contains the joke to be displayed and makes the API call
-Joke.css: This file contains the styling of all the elements 
-Button.js: This file contains the button component which generates the joke on click
-Button.css: This file contains the styling of button element
+ <li>
+<ul>App.js: This file imports the components to render it on the web page</ul>
+<ul>Joke.js: This file contains the joke to be displayed and makes the API call</ul>
+<ul>Joke.css: This file contains the styling of all the elements </ul>
+<ul>Button.js: This file contains the button component which generates the joke on click</ul>
+<ul>Button.css: This file contains the styling of button element</ul>
+</li>
 
 <h1> To run Application </h1>
 Step 1: Type the following command in terminal of your project directory
